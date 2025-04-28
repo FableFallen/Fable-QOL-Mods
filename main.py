@@ -9,6 +9,8 @@ import win32con
 import math
 import threading
 
+# === Constants ===
+
 DEBUG = False  # Set to False to disable debugging output
 
 # === Initialization ===
