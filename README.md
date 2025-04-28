@@ -1,6 +1,6 @@
 # Fable-QOL-Mods
 
-![Fable-QOL-Mods Logo](placeholder_for_logo.png)
+![Fable-QOL-Mods Logo](data/images/icon.png)
 
 ## 📄 Project Description
 
