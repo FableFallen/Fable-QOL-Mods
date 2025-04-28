@@ -1,6 +1,6 @@
 # Fable-QOL-Mods
 
-![Fable-QOL-Mods Logo](data/images/icon.png)
+<img src="data/images/icon.png" alt="Fable-QOL-Mods Logo" width="150" height="150"/>
 
 ## 📄 Project Description
 
